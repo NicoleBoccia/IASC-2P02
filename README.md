@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/NicoleBoccia/IASC-2P02/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NicoleBoccia/IASC-2P02/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ # IASC-2P02
+## Nicole Boccia
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales, risus quis scelerisque rhoncus, quam lorem vulputate ligula, et sodales mi libero vitae sapien. Quisque nec purus iaculis, ultricies lorem vel, porta enim. Integer nec lacus vitae massa blandit varius. Integer laoreet, risus sit amet mollis faucibus, arcu ante suscipit ligula, eu laoreet libero enim vel neque. Aenean venenatis a diam et feugiat. Donec ut mi in nunc tincidunt ornare eget a ante. 
+Quisque velit felis, efficitur sit amet congue eget, sollicitudin eget sapien. Proin id odio odio. Mauris commodo sem varius turpis dictum, id ullamcorper velit congue. Vivamus imperdiet, nisi vitae mollis mattis, ex ante convallis ex, non convallis lacus tellus quis ex. Etiam purus urna, molestie ut porta eu, efficitur ac turpis. Mauris dignissim pharetra lacus, sed ultricies erat aliquet in. Fusce id pulvinar sapien. Nam fermentum purus nec ex consectetur, quis posuere diam molestie. Donec tristique purus in ligula aliquam, vel consectetur dolor consectetur. Quisque elit diam, interdum malesuada orci in, sodales iaculis nisl. Fusce lobortis massa dui, id faucibus nulla maximus sed. Nam ac velit sed mi faucibus ultricies. 
